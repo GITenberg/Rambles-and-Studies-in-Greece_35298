@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37584'
     url: http://www.gutenberg.org/2009/agents/37584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35298#Rambles-and-Studies-in-Greece
 gutenberg_issued: '2011-02-16'
 gutenberg_type: Text
 identifiers:
