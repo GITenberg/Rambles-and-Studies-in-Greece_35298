@@ -1,0 +1,29 @@
+_repo: Rambles-and-Studies-in-Greece_35298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35298-tei/images/cover.png
+creator:
+  author:
+    agent_name: Mahaffy, J. P. (John Pentland)
+    alias: Mahaffy, John Pentland
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '37584'
+    url: http://www.gutenberg.org/2009/agents/37584
+description: ''
+gutenberg_issued: '2011-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35298'
+  lccn: 04016679
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Description and travel'
+- !lcsh 'Art, Greek'
+- !lcc 'DF'
+title: Rambles and Studies in Greece
+url: http://www.gutenberg.org/ebooks/35298
